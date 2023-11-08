@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-javase/ch01-javase.iml" filepath="$PROJECT_DIR$/ch01-javase/ch01-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-maven-webapp/ch02-maven-webapp.iml" filepath="$PROJECT_DIR$/ch02-maven-webapp/ch02-maven-webapp.iml" />
+    </modules>
+  </component>
+</project>
