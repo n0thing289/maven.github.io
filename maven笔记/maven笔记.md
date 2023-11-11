@@ -63,7 +63,8 @@
 
 讲maven的使用，先难后易的。 难是说使用maven的命令，完成maven使用 ， 在idea中直接使用maven，代替命令。
 
-### maven工具的安装和配置。
+### **maven工具的安装和配置。**
+
 - 1）需要从maven的官网下载maven的安装包 apache-maven-3.3.9-bin.zip
 - 2）解压安装包，解压到一个目录，非中文目录。
         子目录 bin :执行程序，主要是mvn.cmd
@@ -214,7 +215,7 @@
 
 - 1）单元测试（测试方法）：用的是junit， junit是一个专门测试的框架（工具）。
   	   junit测试的内容： 测试的是类中的方法， 每一个方法都是独立测试的。
-    		                   方法是测试的基本单位（单元）。
+        		                   方法是测试的基本单位（单元）。
 
 
       maven借助单元测试，批量的测试你类中的大量方法是否符合预期的。
@@ -285,7 +286,8 @@
 - 2.使用模版创建项目
 
   - 1）maven-archetype-quickstart : 普通的java项目
-  -   2）maven-archetype-webapp : web工程
+  - 2）maven-archetype-webapp : web工程
+    - 目录不完整要先创建成约定的maven目录结构
 
 - 3.运行maven管理的项目
 
